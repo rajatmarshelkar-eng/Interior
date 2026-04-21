@@ -1,0 +1,13 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "cd interior && npm run dev",
+    "build": "cd interior && npm run build",
+    "preview": "cd interior && npm run preview",
+    "lint": "cd interior && npm run lint"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.2.2",
+    "tailwindcss": "^4.2.2"
+  }
+}
