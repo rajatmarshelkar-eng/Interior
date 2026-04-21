@@ -1206,4 +1206,4 @@ export default function App() {
       <Footer setPage={setPage} />
     </>
   );
-}    
+}
